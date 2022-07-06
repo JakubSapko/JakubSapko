@@ -1,9 +1,10 @@
 <div id="header" align="center">
 
-<h1> Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
+  <h1> Hi there </h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+ 
   
 ## My name is Jakub Sapko and I'm a aspiring full-stack developer
-### Currently I'm based in Warsaw, therefore I'm looking for work here but I'm also open for a remote work!
+### Currently I'm based in Warsaw, therefore I'm looking for work here but I'm also open for a remote offers!
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/jakub-sapko/">
