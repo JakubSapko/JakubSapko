@@ -1,6 +1,9 @@
 <div id="header" align="center">
 
-### Hi there 👋
+# Hi there 👋
+  
+## My name is Jakub Sapko and I'm a aspiring full-stack developer
+### Currently I'm based in Warsaw, therefore I'm looking for work in here but I'm also open for a remote work!
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/jakub-sapko/">
