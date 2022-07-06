@@ -6,7 +6,8 @@
 
 ### :man_technologist: About Me:
   
-  
+🔭: I'm a STEM enthusiast - I've been studying Physics for two years and now I'm pursuing a Computer Science degree
+💻: Job-wise I'm aspiring to once become na awesome full-stack developer, mainly focusing on :snake: Python and ⚛️ React
   
 <div id="badges">
   You can reach out to me on LinkedIn:
