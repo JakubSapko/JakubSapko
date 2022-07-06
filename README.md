@@ -1,15 +1,20 @@
 <div id="header" align="center">
   
 ## Hi, my name is Jakub Sapko and I'm a aspiring full-stack developer
-### Currently I'm based in Warsaw, therefore I'm looking for work here but I'm also open for a remote offers!
+### Currently I'm based in Warsaw, therefore I'm looking for work here but I'm also open for remote offers!
 
+### :man_technologist: About Me:
+  
+  
+  
 <div id="badges">
+  You can reach out to me on LinkedIn:
   <a href="https://www.linkedin.com/in/jakub-sapko/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=JakubSapko&style=flat-square&color=blue" alt=""/>
-</div>
+</div>  
   
+<img src="https://komarev.com/ghpvc/?username=JakubSapko&style=flat-square&color=blue" alt=""/>
 </div>
 
 
