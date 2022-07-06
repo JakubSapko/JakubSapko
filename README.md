@@ -2,6 +2,7 @@
   
 ## Hi, my name is Jakub Sapko and I'm a aspiring full-stack developer
 ### Currently I'm based in Warsaw, therefore I'm looking for work here but I'm also open for remote offers!
+</div>
 
 ### :man_technologist: About Me:
   
@@ -15,7 +16,7 @@
 </div>  
   
 <img src="https://komarev.com/ghpvc/?username=JakubSapko&style=flat-square&color=blue" alt=""/>
-</div>
+
 
 
 <!--
