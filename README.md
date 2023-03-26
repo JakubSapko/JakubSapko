@@ -8,8 +8,10 @@
   
 🔭: I'm a STEM enthusiast - I've been studying Physics for two years and now I'm pursuing a Computer Science degree
 <br/>
-💻: Job-wise I'm aspiring to once become na awesome full-stack developer, mainly focusing on :snake: Python and ⚛️ React
-  
+💻: Job-wise I'm aspiring to once become a full-stack developer, right now I'm focusing on a Node environment (including ⚛️ React and NestJS)
+<br/>
+🌱: I like learning new things and tinkering with everything I can put my hands on. This means, that when I say I want to become a "full-stack" I really mean a "full" stack developer. Currently I got into Rust and this is what I work on in my spare time.
+
 <div id="badges">
   You can reach out to me on LinkedIn:
   <a href="https://www.linkedin.com/in/jakub-sapko/">
