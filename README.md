@@ -6,7 +6,7 @@
 
 ### :man_technologist: About Me:
   
-🔭: I'm a STEM enthusiast - I've been studying Physics for two years and now I'm pursuing a Computer Science degree
+🔭: I'm a STEM enthusiast - I've been studying Physics for two years and now I'm finishing a Computer Science degree
 
 
 💻: Job-wise I'm aspiring to once become a full-stack developer, right now I'm focusing on a Node environment (including ⚛️ React and NestJS)
