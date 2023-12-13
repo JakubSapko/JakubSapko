@@ -9,7 +9,7 @@
 🔭: I'm a STEM enthusiast - I've been studying Physics for two years and now I'm finishing a Computer Science degree
 
 
-💻: Job-wise I'm aspiring to once become a full-stack developer, right now I'm focusing on a Node environment (including ⚛️ React and NestJS)
+💻: Job-wise I'm aspiring to once become a full-stack developer, right now I'm focusing on a Rust environment.
 
 
 🌱: I like learning new things and tinkering with everything I can put my hands on. This means, that when I say I want to become a "full-stack" I really mean a "full" stack developer. Currently I got into Rust and this is what I work on in my spare time.
