@@ -1,15 +1,15 @@
 <div id="header" align="center">
   
-## Hi, my name is Jakub Sapko and I'm a aspiring full-stack developer
+## Hi, my name is Jakub Sapko and I'm an aspiring full-stack developer
 ### Currently I'm based in Warsaw, therefore I'm looking for work here but I'm also open for remote offers!
 </div>
 
 ### :man_technologist: About Me:
   
-🔭: I'm a STEM enthusiast - I've been studying Physics for two years and now I'm finishing a Computer Science degree
+🔭: I'm a STEM enthusiast - I've been studying Physics for two years and recently I've finished my Computer Science degree.
 
 
-💻: Job-wise I'm aspiring to once become a full-stack developer, right now I'm focusing on a Rust environment.
+💻: Job-wise I'm aspiring to once become a full-stack developer, right now I'm focusing on a Go ecosystem.
 
 
 🌱: I like learning new things and tinkering with everything I can put my hands on. This means, that when I say I want to become a "full-stack" I really mean a "full" stack developer. Currently I got into Rust and this is what I work on in my spare time.
